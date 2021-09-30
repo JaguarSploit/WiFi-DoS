@@ -1,7 +1,7 @@
 # JaguarSploit
 
 <p align="center">
-  <img src="https://lh6.googleusercontent.com/MXnbaYkT8kxJI4ll-3QHRJHOm_n5jmpItWApVmpMvVi71GURArLETuIGiC7ph7dIPN6B2_vx2n2YsZlW_-FU=w1879-h977" alt="Logo" width="300" height="300">
+  <img src="https://lh6.googleusercontent.com/MXnbaYkT8kxJI4ll-3QHRJHOm_n5jmpItWApVmpMvVi71GURArLETuIGiC7ph7dIPN6B2_vx2n2YsZlW_-FU=w1879-h977" alt="Logo" width="50" height="50">
 </p>
 <p align="center">
   <b> Follow on Social Media Platforms </b>
