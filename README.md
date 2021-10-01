@@ -18,7 +18,6 @@ If you find a bug (the script couldn't handle the query and / or gave undesired 
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/JaguarSploit/DDoS-Script/issues/new). Please include sample queries and their corresponding results.
 
-It is my first application with GUI. Thank you!
 
 # Credits
 * [@MohammedFaiz06](https://github.com/MohammedFaiz06)
