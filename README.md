@@ -8,15 +8,15 @@
 
 
 # How to run the project? :thinking:
- - Clone github repository in your local system  `git clone https://github.com/JaguarSploit/DDoS-Script.git`
- - Move in DDoS-Script repository  `cd DDoS-Script`
+ - Clone github repository in your local system  `git clone https://github.com/JaguarSploit/WiFi-DoS.git`
+ - Move in WiFi-DoS repository  `cd WiFi-DoS`
  - py Script.py
 
 
 ## Bug / Feature Request :man_technologist:
-If you find a bug (the script couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/JaguarSploit/DDoS-Script/issues/new) by including your search query and the expected result.
+If you find a bug (the script couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/JaguarSploit/WiFi-DoS/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/JaguarSploit/DDoS-Script/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/JaguarSploit/WiFi-DoS/issues/new). Please include sample queries and their corresponding results.
 
 
 # Credits
