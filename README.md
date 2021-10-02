@@ -1,10 +1,10 @@
-# DDoS Script
+# WiFi DoS
  - Easy setup and UI
  - Start attack within a minute
  
 
 ## About this Script
-<p>This script makes it very simple for an attacker to perform DDoS attack. Just type in the IP and port and you're all set!</p>
+<p>This script makes it very simple for an attacker to perform a WiFi DoS attack. Just type in the MAC address and you're all set!</p>
 
 
 # How to run the project? :thinking:
